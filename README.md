@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shey-Hines
 - 👀 I’m interested in Business Data Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any projects that could befenit someone new to tech!
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me sheyhines.14.af@gmail.com
 
 <!---
